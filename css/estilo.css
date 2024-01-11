@@ -26,9 +26,6 @@ body{
     background-color: #Fdfdfd ;
 }
 
-.spoonLogoPng{
-    width: 250px;
-}
 .red{
     width: 60px;
 }
@@ -43,6 +40,9 @@ body{
     grid-area: txt;
     margin-top: 20px;
     
+}
+.img-thumbnail{
+    border: none;
 }
 
 .logoFooter{
